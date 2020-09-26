@@ -1,0 +1,44 @@
+Tools:
+
+Oculus Hand Integration                 https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
+Unity Terrain Tools Asset Pack          https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-tools-sample-asset-pack-145808
+
+
+
+Nicht selbst erstellte Assets:
+
+Büro (Unity Snaps)		                https://assetstore.unity.com/packages/3d/environments/snaps-prototype-office-137490
+Pistole		                            https://assetstore.unity.com/packages/3d/props/weapons/low-poly-fps-pack-free-sample-144839
+Zäune, Mauern und Hof vorm Gebäude      https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v2-0-86679
+Mülleimer auf dem Hof                   https://assetstore.unity.com/packages/3d/props/urban-dumpsters-pack-84804
+Gabelstapler in der Baustelle           https://assetstore.unity.com/packages/3d/vehicles/land/fork-loader-hq-123806
+Straßenlaterne                          https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-165658
+Straße                                  https://assetstore.unity.com/packages/3d/environments/urban/simple-modular-street-kit-13811
+Auto auf der Ziellinie                  https://assetstore.unity.com/packages/3d/vehicles/land/hq-racing-car-model-no-1203-139221
+Blumentopf für Meshbäume                https://assetstore.unity.com/packages/3d/props/exterior/pbr-floweringpot-01-167368
+Spotlights für Meshbäume                https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453
+Clipboard für Textanzeige               https://assetstore.unity.com/packages/3d/props/clipboard-137662
+
+
+
+Nicht selbst erstellte Materialien:
+
+Mauer                                   https://assetstore.unity.com/packages/2d/textures-materials/pbr-bricks-materials-147974
+Holzboden                               https://assetstore.unity.com/packages/2d/textures-materials/wood/wooden-floor-materials-150564
+
+
+
+Skybox:
+Cold Night                              https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+
+
+
+Sounds:
+
+Schuss		                            s. Pistolenasset
+Nachladen                               s. Pistolenasset
+
+Neonröhre	                            https://freesound.org/people/kyles/sounds/454094/
+Countdown	                            https://freesound.org/people/goodfelo/sounds/188502/
+
+Rebels - Karl Casey @ White Bat Audio   https://youtu.be/2-wKcIkElIc?t=415
